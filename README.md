@@ -7,9 +7,8 @@ Created as part of the Udacity android course.
 
 The source code is location in the main home directory and the document of how this file was created is located in the doc directory. Screenshots listed below are some of the many data from the project.
 
+![Screenshot_20211206-110319_Pets](https://user-images.githubusercontent.com/43653409/144796605-f3db5262-4d27-4c5f-bda4-35f3aba4c6a9.jpg)
+![Screenshot_20211206-110330_Pets](https://user-images.githubusercontent.com/43653409/144796615-c793fdd3-0add-4d96-b6d8-be1ee7733c3e.jpg)
+![Screenshot_20211206-110344_Pets](https://user-images.githubusercontent.com/43653409/144796628-2769f8c1-f887-4733-8bee-0c9e42e922db.jpg)
+![Screenshot_20211206-110405_Pets](https://user-images.githubusercontent.com/43653409/144796636-550cfc03-27ad-4d98-add3-337a4ab315db.jpg)
 
-
-![Screenshot_20211206-110319_Pets](https://user-images.githubusercontent.com/43653409/144796141-dcfca585-bdff-40e5-99c1-82f2c73b0fb7.jpg)
-![Screenshot_20211206-110330_Pets](https://user-images.githubusercontent.com/43653409/144796154-7de19fe6-aec7-45cc-9734-11b573718d0b.jpg)
-![Screenshot_20211206-110344_Pets](https://user-images.githubusercontent.com/43653409/144796160-3090b6e8-19cf-4603-877b-f142c3c60a4e.jpg)
-![Screenshot_20211206-110405_Pets](https://user-images.githubusercontent.com/43653409/144796377-5a9d2e6a-77b2-47cc-a7bb-dc62e0522f63.jpg)
