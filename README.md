@@ -5,8 +5,6 @@ This app lets the user to add and delete pets and view their details.
 
 Created as part of the Udacity android course.
 
-The source code is location in the main home directory and the document of how this file was created is located in the doc directory. 
-
 ![Screenshot_20211206-110319_Pets](https://user-images.githubusercontent.com/43653409/144796605-f3db5262-4d27-4c5f-bda4-35f3aba4c6a9.jpg)    
 
 ![Screenshot_20211206-110330_Pets](https://user-images.githubusercontent.com/43653409/144796615-c793fdd3-0add-4d96-b6d8-be1ee7733c3e.jpg)    
