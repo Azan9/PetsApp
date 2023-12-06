@@ -1,7 +1,7 @@
 Pets App
 ===================================
 
-This app lets the user to add and delete pets and view their details.
+This android app lets the user to add and delete pets and view their details.
 
 Created as part of the Udacity android course.
 
